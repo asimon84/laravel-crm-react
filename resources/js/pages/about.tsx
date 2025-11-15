@@ -3,7 +3,7 @@ import AppLayout from '@/layouts/app-layout';
 import { about } from '@/routes';
 import { type BreadcrumbItem } from '@/types';
 import { Head } from '@inertiajs/react';
-import Accordion from '@/Components/ui/Accordion';
+import Accordion from '@/components/ui/accordion';
 
 const breadcrumbs: BreadcrumbItem[] = [
     {

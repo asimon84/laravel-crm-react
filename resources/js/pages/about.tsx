@@ -21,13 +21,13 @@ export default function About() {
         },
         {
             id: 2,
-            title: 'What is the purpose?',
-            content: <p>This application demonstrates React front capabilities and componentization of reusable elements.</p>,
+            title: 'What is a CRM?',
+            content: <p>A CRM is Customer Relationship Management software. It helps a business manage customers, contact information, and order histories.</p>,
         },
         {
             id: 3,
-            title: 'Section 3',
-            content: <p>Content for section 3.</p>,
+            title: 'What is the purpose?',
+            content: <p>This application demonstrates React front capabilities and componentization of reusable elements.</p>,
         },
     ];
 

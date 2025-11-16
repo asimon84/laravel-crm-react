@@ -38,7 +38,7 @@ export default function About() {
                 <div className="max-w-7xl mx-auto sm:px-6 lg:px-8">
                     <div className="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                         <div className="p-6 text-gray-900">
-                            <h2 className="text-2xl font-semibold mb-4">FAQ</h2>
+                            <h2 className="text-2xl font-semibold mb-4">FAQ - Frequently Asked Questions</h2>
                             <Accordion items={accordionItems} />
                         </div>
                     </div>

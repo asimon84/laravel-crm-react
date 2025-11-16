@@ -16,8 +16,8 @@ export default function About() {
     const accordionItems = [
         {
             id: 1,
-            title: 'Section 1',
-            content: <p>Content for section 1.</p>,
+            title: 'What is this?',
+            content: <p>This is a sample CRM application built with a React frontend.</p>,
         },
         {
             id: 2,

@@ -27,7 +27,7 @@ export default function About() {
         {
             id: 3,
             title: 'What is the purpose?',
-            content: <p>This application demonstrates React front capabilities and componentization of reusable elements.</p>,
+            content: <p>This application demonstrates React front end capabilities and componentization of reusable elements.</p>,
         },
     ];
 

@@ -21,8 +21,8 @@ export default function About() {
         },
         {
             id: 2,
-            title: 'Section 2',
-            content: <p>Content for section 2.</p>,
+            title: 'What is the purpose?',
+            content: <p>This application demonstrates React front capabilities and componentization of reusable elements.</p>,
         },
         {
             id: 3,

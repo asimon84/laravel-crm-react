@@ -16,6 +16,6 @@ class AboutController extends Controller
      * @return Response
      */
     public function index(Request $request):Response {
-        return Inertia::render('About', []);
+        return Inertia::render('about', []);
     }
 }
